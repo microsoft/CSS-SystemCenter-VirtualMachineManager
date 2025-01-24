@@ -1,13 +1,6 @@
-# Project
+# Under Construction
 
 Thank you for visiting our page! We are currently working on adding content to this section. Please check back soon for updates. We appreciate your patience!
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
 
 ## Contributing
 
