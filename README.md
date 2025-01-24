@@ -1,7 +1,6 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Thank you for visiting our page! We are currently working on adding content to this section. Please check back soon for updates. We appreciate your patience!
 
 As the maintainer of this project, please make a few updates:
 
